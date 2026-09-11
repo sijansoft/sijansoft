@@ -1,6 +1,6 @@
 # 🚀 **SijanSoft**
 
-### 💻 Building Digital Solutions for Modern Businesses
+### 💻 Building the future of Digital Infrastructure
 
 **SijanSoft** is a software and digital solutions agency helping businesses build **modern, scalable, and user-focused digital products**.
 
